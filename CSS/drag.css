@@ -130,6 +130,10 @@ body {
     padding: 30px 0px;
 }
 
+.bg_ban {
+    height: 100vh;
+}
+
 .brtn {
     text-align: right;
     max-width: 91%;
@@ -211,5 +215,5 @@ body {
 @media screen and (max-width: 320px) {
     .file-drop-area {
         width: 190px;
-    }  
+    }
 }
